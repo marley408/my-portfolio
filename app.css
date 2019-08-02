@@ -1,0 +1,47 @@
+.jumbotron {
+  /* background-image: url(./images/wil-stewart-RpDA3uYkJWM-unsplash.jpg); */
+  background-size: cover;
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  height: auto;
+  color: whitesmoke;
+}
+
+.name{
+  margin-top: 20px;
+  font-family: 'Nobile', sans-serif;
+
+}
+
+
+
+body{
+  background-color: rgb(29, 28, 28);
+}
+.card-title{
+  color:white;
+}
+.card-body{
+  background-color: #2c2c32;
+
+}
+
+.card-body a{
+color: teal;
+}
+
+.card{
+  border: none;
+  color: whitesmoke;
+  margin: 15px;
+}
+
+footer{
+  color:whitesmoke
+}
+
+.icons{
+  color: whitesmoke;
+}
+.icons a:hover{
+  color: whitesmoke;
+}
