@@ -38,6 +38,10 @@ color: rgb(89, 154, 197);
   margin: 15px;
 }
 
+.card > .card-body:last-of-type {
+  flex: none;
+}
+
 footer{
   color:whitesmoke
 }
